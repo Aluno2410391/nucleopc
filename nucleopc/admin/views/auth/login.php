@@ -49,7 +49,7 @@
     </div>
 
     <p style="text-align:center; font-size:12.5px; color:var(--muted); margin-top:10px;">
-      Ainda não tem conta? <a href="index.php?url=auth/cadastro" style="font-weight:600;">Criar conta</a>
+      O acesso ao painel é concedido pelo administrador da loja
     </p>
   </div>
 </div>
