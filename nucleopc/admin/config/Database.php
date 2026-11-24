@@ -9,10 +9,10 @@ class Database
     private static ?PDO $instance = null;
 
     // Ajuste estes dados conforme sua instalação do XAMPP
-    private const HOST   = 'sql109.infinityfree.com';
-    private const DBNAME = 'if0_43064442_nucleopc_db';
-    private const USER   = 'if0_43064442';
-    private const PASS   = 'Umy4YJy5QTl42x';
+    private const HOST   = 'localhost';
+    private const DBNAME = 'nucleopc_db';
+    private const USER   = 'root';
+    private const PASS   = '';
     private const CHARSET = 'utf8mb4';
 
     private function __construct()
