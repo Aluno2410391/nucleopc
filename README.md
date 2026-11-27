@@ -1,8 +1,6 @@
 # Núcleo PC — Loja de Computadores e Peças
 
-Projeto acadêmico de Programação Web (padrão **MVC**, PHP **OOP** e **MySQL**),
-inspirado no modelo apresentado no manual da "Loja Cosplay", porém aplicado a
-um novo domínio (loja de hardware, no estilo Pichau/Kabum) e com **dois
+Projeto acadêmico de Programação Web (padrão **MVC**, PHP **OOP** e **MySQL**), **dois
 sistemas independentes**:
 
 | Sistema | Pasta | Público | O que faz |
