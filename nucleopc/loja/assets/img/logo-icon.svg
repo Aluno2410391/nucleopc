@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Núcleo PC">
+  <defs>
+    <linearGradient id="npc-body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B2745"/>
+      <stop offset="1" stop-color="#0D1321"/>
+    </linearGradient>
+  </defs>
+  <!-- pinos do chip -->
+  <g fill="#7C8AA8">
+    <rect x="21" y="5"  width="4" height="9" rx="2"/><rect x="30" y="5"  width="4" height="9" rx="2"/><rect x="39" y="5"  width="4" height="9" rx="2"/>
+    <rect x="21" y="50" width="4" height="9" rx="2"/><rect x="30" y="50" width="4" height="9" rx="2"/><rect x="39" y="50" width="4" height="9" rx="2"/>
+    <rect x="5"  y="21" width="9" height="4" rx="2"/><rect x="5"  y="30" width="9" height="4" rx="2"/><rect x="5"  y="39" width="9" height="4" rx="2"/>
+    <rect x="50" y="21" width="9" height="4" rx="2"/><rect x="50" y="30" width="9" height="4" rx="2"/><rect x="50" y="39" width="9" height="4" rx="2"/>
+  </g>
+  <!-- corpo do chip -->
+  <rect x="11" y="11" width="42" height="42" rx="10" fill="url(#npc-body)" stroke="#00B8D9" stroke-width="2.5"/>
+  <!-- "N" de Núcleo -->
+  <path d="M22.5 42V22L41.5 42V22" fill="none" stroke="#FF6B35" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
